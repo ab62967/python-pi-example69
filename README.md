@@ -1,2 +1,2 @@
 # python-pi-example69
-a test 
+a test project
